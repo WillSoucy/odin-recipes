@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(206, 226, 233);
+}
+#home{
+text-align: center;
+color: brown;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 35px;
+font-weight: 800;
+}
+#burger{
+    text-align: center;
+    color: rgb(207, 205, 63);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#beef{
+    text-align: center;
+    color: rgb(87, 39, 39);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#taco{
+    text-align: center;
+    color: rgb(30, 122, 50);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 250px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
